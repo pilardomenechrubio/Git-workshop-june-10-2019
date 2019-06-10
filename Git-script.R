@@ -1,6 +1,6 @@
 
-doing <- ("How are you doing")
+doing <- readline(prompt = "How are you doing  ")
 print(doing)
 
-if (doing == good){print(Great)}
+if (doing == "good"){print("Great")}
 
