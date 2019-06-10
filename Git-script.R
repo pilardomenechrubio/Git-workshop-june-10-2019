@@ -1,4 +1,6 @@
-#1.2
-print("Hello Git")
-#1.3
-print("hello Git and the world and my boss")
+
+doing <- ("How are you doing")
+print(doing)
+
+if (doing == good){print(Great)}
+
