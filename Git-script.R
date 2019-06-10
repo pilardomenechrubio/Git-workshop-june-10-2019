@@ -1,4 +1,2 @@
-#1.2
-print("Hello Git")
-#1.3
-print("hello Git and the world")
+name <- readline(prompt = "Enter name: ")
+print(paste ("Hello", name))
